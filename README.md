@@ -1,2 +1,4 @@
-# Anime_Drag_paper
-Anime_Drag_paper
+# impressingCrush
+link mobile.js instead of script.js in index.html to work in mobile.
+
+Thanks and Happy Coding.
